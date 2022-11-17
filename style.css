@@ -71,3 +71,9 @@ input[type="number"].people{
   font-size: 17px;
   color: var(--tertiary-color);
 }
+
+#totalTip {
+  font-size: 20px;
+  margin-top: 3px;
+  text-align: center;
+}
